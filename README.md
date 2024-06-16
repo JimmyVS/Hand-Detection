@@ -1,4 +1,4 @@
-# Volume-Control
+# Hand-Detection
 
 This Python project utilizes MediaPipe to detect hands in real-time video and analyze finger positions and distances.
 
